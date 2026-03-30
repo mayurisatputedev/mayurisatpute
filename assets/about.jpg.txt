@@ -1,0 +1,5 @@
+Placeholder for about.jpg
+
+Please add a professional photo for the about section here.
+Recommended: High-quality image, any aspect ratio (will be responsive).
+File name: about.jpg

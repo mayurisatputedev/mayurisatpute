@@ -1,0 +1,5 @@
+Placeholder for profile.jpg
+
+Please add your professional headshot here.
+Recommended: 150x150px, circular crop, professional attire.
+File name: profile.jpg
